@@ -20,7 +20,7 @@ Aşağıda projeyi gerçekleştiren ekip üyelerinin bilgileri ve GitHub profill
 | Ad Soyad | Öğrenci No | Görev | GitHub Linki |
 |----------|------------|-------|----------------|
 | Yusuf Aksu | 1220505063 | Backend & Patterns | https://github.com/yusufaksuu21/Java-Donem-Projesi |
-| Mehmed El Ahmed | 5210505104 | GUI & Frontend | GitHub Linki |
+| Mehmed El Ahmed | 5210505104 | GUI & Frontend | https://github.com/jihaad-an |
 | Hasan Talha Uslu | 1210505802 | Database & Diagrams | https://github.com/HasantUslu/Java-Donem-Projesi |
 
 ---
